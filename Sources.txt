@@ -1,32 +1,36 @@
-7 Top ventilation(1), Moved 4 stoves around and left a little gap(4), moved both frying holders(2), fengjunxuan -  https://www.cgtrader.com/free-3d-models/interior/kitchen/kitchen-equipment-f0336dfa-1f48-4db1-aedb-7b542bd1d4bc
+Floor tiles by Justice0Juic3 - https://assetstore.unity.com/packages/2d/textures-materials/tiles/pbr-tile-texture-floor-36243
 
-1 Pan, Sted-3D - https://www.cgtrader.com/free-3d-models/interior/kitchen/frying-pan-7bc5e8b9-6115-43c6-9904-785b25fa96ce
+Online models:
+Drum set by simon-stragier - https://www.cgtrader.com/free-3d-models/various/various-models/drum-set-0c0c6c92-6b42-49a8-ad24-c665429b68ee
 
-1 Display rack, akshatsh - https://www.cgtrader.com/free-3d-models/furniture/other/the-display-rack
+Acoustic Guitar by dleblanc74501 - https://www.cgtrader.com/free-3d-models/interior/other/acoustic-guitar-with-stand
 
-1 Mini oven, Tinik - https://www.cgtrader.com/free-3d-models/interior/kitchen/kitchen-oven
+Microphone by oakmountain3d - https://www.cgtrader.com/free-3d-models/electronics/audio/microphone-set-14867df1-b50c-4a6e-8b55-585e4f2455d5
 
-1 Checkout counter, mehrannaseri - https://www.cgtrader.com/free-3d-models/interior/other/tulip-2ef3d311-61f5-4479-9dac-5bf6d314a83e
+Loudspeaker by NVJOB - https://www.cgtrader.com/free-3d-models/electronics/audio/low-poly-loudspeaker-00c24fc6-a1b0-421b-86c9-7ac3abe92450
 
-1 Mini fridge, heymall - https://www.cgtrader.com/free-3d-models/interior/kitchen/mini-bar-76698259-d5ff-49e6-8271-183b65759021
+Sound Tower by blendsomething - https://www.cgtrader.com/free-3d-models/electronics/audio/sound-tower
 
-1 Coffee machine, Earthless188 - https://www.cgtrader.com/free-3d-models/interior/kitchen/low-poly-espresso-machine
+Seat Model by andreablasco4 - https://www.cgtrader.com/free-3d-models/interior/house-interior/seat-model-andrea-blasco-architect
 
-1 Mixer, batuhancalki - https://www.cgtrader.com/free-3d-models/interior/kitchen/low-poly-mixer
+Le Corbusier LC3 chair by bhaktakrpa - https://www.cgtrader.com/free-3d-models/architectural/decoration/le-corbusier-lc3-chair
 
-1 Juicer, xHoom - https://www.cgtrader.com/free-3d-models/interior/kitchen/low-poly-juicer
+Stand by adamhard - https://www.cgtrader.com/free-3d-models/architectural/other/stand-bean-stand-tasting-product-shopping-markets-big-store
 
-Total = 15
+Trumpet by Atlas-Labs - https://www.cgtrader.com/free-3d-models/sports/music/trumpet-ac379af2-fa77-4b2a-9664-77b91a15af95
 
-Sounds:
+Neon Sign by alexbes - https://www.cgtrader.com/free-3d-models/exterior/street-exterior/game-ready-japanese-signs-set-sign-neon-24h
 
-Metal Clang, battlestar10 - https://soundbible.com/1781-Metal-Clang.html
+My models:
+cowboy hat flag
 
-Frying Food, J Bravo - https://soundbible.com/2031-Frying-Food.html
+round small table
 
-Bir Poop Splat, Mike Koenig - https://soundbible.com/1079-Bir-Poop-Splat.html
+drum stick
 
-Fast Forward (mixer), BlastwaveFx.com - https://soundbible.com/624-Fast-Forward.html
+glass bottle
 
-The Sweetest Sin by Loveshadow (c) copyright 2008 Licensed under a Creative Commons Attribution Noncommercial  (3.0) license. http://dig.ccmixter.org/files/Loveshadow/14582 Ft: Trifonic & Amelia June
+Videos used:
+animating an object in unity - https://www.youtube.com/watch?v=JVFg9g4f-ME
 
+VRTK v4 Weekly Livestream from "Virtual Reality Toolkit" on youtube

@@ -30,6 +30,10 @@ drum stick
 
 glass bottle
 
+black hat
+
+
+
 Videos used:
 animating an object in unity - https://www.youtube.com/watch?v=JVFg9g4f-ME
 

@@ -32,9 +32,31 @@ glass bottle
 
 black hat
 
+canvas with swamp village
+
+Music/Sounds:
+Latin Licked by Martijn de Boer (NiGiD) (c) copyright 2020 Licensed under a Creative Commons Attribution Noncommercial  (3.0) license. http://dig.ccmixter.org/files/NiGiD/62639 Ft: Javolenus
+
+https://soundbible.com/769-Hello.html by Mike Koenig
+
+https://soundbible.com/1823-Winning-Triumphal-Fanfare.html trumpet by John Stracke
+
+https://soundbible.com/596-Metal-Clack-Pots-Pans.html Metal Clack Pots Pans by Mike Koenig
+
+https://soundbible.com/122-Congo-Drummer.html Congo Drummer by Mike Koenig
+
+https://soundbible.com/634-Wind-Blowing.html Wind Blowing by Mike Koenig
+
+Flat Models:
+https://assetstore.unity.com/packages/3d/props/interior/picture-frames-with-photos-106907 Small Frame
+https://assetstore.unity.com/packages/3d/props/interior/free-rug-pack-118178 Rug
+https://assetstore.unity.com/packages/3d/props/furniture/classic-picture-frame-59038 Classic Picture Frame
+https://assetstore.unity.com/packages/3d/props/interior/party-pack-196474 Party Pack
 
 
 Videos used:
 animating an object in unity - https://www.youtube.com/watch?v=JVFg9g4f-ME
 
 VRTK v4 Weekly Livestream from "Virtual Reality Toolkit" on youtube
+
+applying image to surface - https://www.youtube.com/watch?v=jLGWE335J28&t=265s
